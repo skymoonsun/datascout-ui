@@ -1,0 +1,62 @@
+.dataTables_length{
+    float: left;
+    margin-left: 10px;
+}
+
+.dataTables_length label{
+    margin-bottom: 0px!important;
+}
+
+.dt-buttons{
+    float: left;
+}
+
+.nav-button{
+    color: #FFF!important;
+    padding: 5px 1rem!important;
+    margin-left: 10px;
+}
+
+.mr-5{
+    margin-right: 5px!important;;
+}
+
+.mr-10{
+    margin-right: 10px!important;;
+}
+
+.mr-15{
+    margin-right: 15px!important;;
+}
+
+.mr-20{
+    margin-right: 20px!important;;
+}
+
+.mr-30{
+    margin-right: 30px!important;;
+}
+
+.mb-5{
+    margin-bottom: 5px!important;
+}
+
+.mb-10{
+    margin-bottom: 10px!important;;
+}
+
+.mb-15{
+    margin-bottom: 15px!important;;
+}
+
+.mb-20{
+    margin-bottom: 20px!important;;
+}
+
+.mb-30{
+    margin-bottom: 30px!important;;
+}
+
+.timeline>div>.fa, .timeline>div>.fab, .timeline>div>.fad, .timeline>div>.fal, .timeline>div>.far, .timeline>div>.fas, .timeline>div>.ion, .timeline>div>.svg-inline--fa{
+    width: auto!important;
+}

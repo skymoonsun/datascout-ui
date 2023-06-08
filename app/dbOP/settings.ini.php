@@ -1,0 +1,1 @@
+;<?php return; ?>[SQL]host = datascout-databaseuser = rootpassword = passworddbname = datascout_db
